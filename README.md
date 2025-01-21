@@ -1,6 +1,6 @@
 ## Delivery 01 - $(Game Title)
 
-![$(Game Title)](Screenshots/screenshot000.png "$(Game Title)")
+![$(Game Title)](Screenshots/screenshot01.png "$(Game Title)")
 
 ### Description
 
