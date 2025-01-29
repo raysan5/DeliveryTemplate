@@ -63,7 +63,7 @@ void SomeFunction()
 ## Files and Directories Naming Conventions
 
   - Directories are named using `TitleCase`: `Assets/Sprites`, `Assets/Fonts`
-  - Files are named using `snake_case`: `main_title.png`, `cubicmap.png`, `sound.wav`
+  - Files are named using `TitleCase`: `MainTitle.png`, `Cubicmap.png`, `CoinFx.wav`
 
 **_NOTE: Spaces and special characters MUST BE ALWAYS avoided in the files/dir naming!_**
 
@@ -73,14 +73,14 @@ void SomeFunction()
  - Descriptive names are used for the files, just reading the name of the file it should be possible to know what is that file and where fits in the game.
 
 ```
-Assets/Audio/Fx/long_jump.wav
-Assets/Audio/Music/main_theme.ogg
-Assets/Screens/Logo/logo.png
-Assets/Screens/Title/title.png
-Assets/Screens/Gameplay/background.png
-Assets/Sprites/player.png
-Assets/Sprites/enemy_slime.png
-Assets/Common/font_arial.ttf
-Assets/Common/gui.png
+Assets/Audio/Fx/LongJump.wav
+Assets/Audio/Music/MainTheme.ogg
+Assets/Screens/Logo/Logo.png
+Assets/Screens/Title/Title.png
+Assets/Screens/Gameplay/Background.png
+Assets/Sprites/Player.png
+Assets/Sprites/EnemySlime.png
+Assets/Common/FontArial.ttf
+Assets/Common/Gui.png
 ```
 _NOTE: Some resources require to be loaded all at once while other require to be loaded only at initialization (gui, font)._
